@@ -12,4 +12,4 @@ carrousel.style.transform = "translateX(0)"
 bout3.addEventListener('mousedown', function(){
 carrousel.style.transform = "translateX(-200vw)"
 })
-}())       
+}())

@@ -639,12 +639,16 @@ textarea {
 }
 
 .main-navigation ul ul {
+  display: grid;
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
   float: left;
   position: absolute;
   top: 100%;
   left: -999em;
   z-index: 99999;
+  width: auto;
+  height: auto;
+  background-color: white;
 }
 
 .main-navigation ul ul ul {
@@ -682,9 +686,16 @@ textarea {
   display: block;
 }
 
+button {
+  margin: 0 auto;
+}
+
 @media screen and (min-width: 37.5em) {
   .menu-toggle {
     display: none;
+  }
+  .main-navigation a {
+    display: block;
   }
   .main-navigation.toggled ul,
   .main-navigation ul {
@@ -697,6 +708,9 @@ textarea {
   }
   ul {
     display: none;
+  }
+  .sub-menu {
+    display: grid;
   }
 }
 
