@@ -686,13 +686,14 @@ textarea {
   display: block;
 }
 
-button {
-  margin: 0 auto;
-}
-
 @media screen and (min-width: 37.5em) {
   .menu-toggle {
     display: none;
+  }
+  li:hover ul {
+    display: block;
+    width: auto;
+    height: auto;
   }
   .main-navigation a {
     display: block;
@@ -708,6 +709,7 @@ button {
   }
   ul {
     display: none;
+    width: 400px;
   }
   .sub-menu {
     display: grid;

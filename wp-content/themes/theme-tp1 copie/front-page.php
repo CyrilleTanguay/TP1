@@ -27,9 +27,11 @@ get_header();
 				<div>2</div>
 				<div>3</div>
 				</section>
+                <div style="display: flex; justify-content:center;">
 				<button id='un'>1</button>
 				<button id='deux'>2</button>
 				<button id='trois'>3</button>
+                </div>
 				<?php endif ?>
 			<?php
 			/* Start the Loop */

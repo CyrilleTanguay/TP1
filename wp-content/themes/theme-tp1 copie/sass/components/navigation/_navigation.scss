@@ -77,19 +77,27 @@
 .main-navigation.toggled ul {
 	display: block;
 }
+
+
 	// ul:hover{
 	// 	display:block;
 	// }
 	// .sub-menu li{
 	// 	display:block;
 	// }
-	button{
-		margin: 0 auto;
-	}
+	// button{
+	// 	margin: 0 auto;
+	// }
 @media screen and (min-width: 37.5em) {
 
 	.menu-toggle {
 		display: none;
+	}
+
+	li:hover ul{
+		display: block;
+		width: auto;
+		height: auto;
 	}
 
 	.main-navigation a{
@@ -108,13 +116,12 @@
 	
 	ul{
 		display:none;
+		width: 400px;
 	}
 	.sub-menu{
 		display: grid;
 	}
-	.sub-menu li{
-		//display:block;
-	}
+
 }
 
 .comment-navigation,
