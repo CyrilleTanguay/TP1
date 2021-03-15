@@ -1083,7 +1083,7 @@ textarea {
 --------------------------------------------- */
 .carrousel {
   display: flex;
-  width: 300vw;
+  width: 500vw;
   height: 20vh;
   transition: transform .5s;
 }
@@ -1107,6 +1107,14 @@ textarea {
   background-color: #435abe;
 }
 
+.carrousel div:nth-of-type(4) {
+  background-color: #ff009d;
+}
+
+.carrousel div:nth-of-type(5) {
+  background-color: #e5ff00;
+}
+
 #un {
   animation: un 1s both;
 }
@@ -1119,6 +1127,16 @@ textarea {
 #trois {
   animation: trois 1s both;
   animation-delay: 1s;
+}
+
+#quatre {
+  animation: quatre 1s both;
+  animation-delay: 1.5s;
+}
+
+#cinq {
+  animation: cinq 1s both;
+  animation-delay: 2s;
 }
 
 @keyframes un {
@@ -1140,6 +1158,24 @@ textarea {
 }
 
 @keyframes trois {
+  0% {
+    transform: translateX(-1000px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+@keyframes quatre {
+  0% {
+    transform: translateX(-1000px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+@keyframes cinq {
   0% {
     transform: translateX(-1000px);
   }
