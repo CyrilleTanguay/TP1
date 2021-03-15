@@ -1106,4 +1106,45 @@ textarea {
 .carrousel div:nth-of-type(3) {
   background-color: #435abe;
 }
+
+#un {
+  animation: un 1s both;
+}
+
+#deux {
+  animation: deux 1s both;
+  animation-delay: 0.5s;
+}
+
+#trois {
+  animation: trois 1s both;
+  animation-delay: 1s;
+}
+
+@keyframes un {
+  0% {
+    transform: translateX(-1000px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+@keyframes deux {
+  0% {
+    transform: translateX(-1000px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+
+@keyframes trois {
+  0% {
+    transform: translateX(-1000px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
 /*# sourceMappingURL=style.css.map */
