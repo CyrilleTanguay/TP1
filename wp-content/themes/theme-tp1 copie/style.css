@@ -458,6 +458,7 @@ big {
 --------------------------------------------- */
 body {
   background: #fff;
+  overflow-x: hidden;
 }
 
 hr {
@@ -677,6 +678,10 @@ textarea {
 
 .main-navigation a {
   display: block;
+  text-decoration: none;
+}
+
+a {
   text-decoration: none;
 }
 
@@ -1113,6 +1118,10 @@ textarea {
 
 .carrousel div:nth-of-type(5) {
   background-color: #e5ff00;
+}
+
+.carrousel div a {
+  font-size: xx-large;
 }
 
 #un {

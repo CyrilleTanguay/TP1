@@ -71,6 +71,10 @@
 	.current-menu-ancestor > a {
 	}
 }
+//Enlèvement de la décoration des liens
+a{
+	text-decoration: none;
+}
 
 /* Small menu. */
 .menu-toggle,
