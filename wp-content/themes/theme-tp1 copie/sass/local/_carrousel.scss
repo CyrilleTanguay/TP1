@@ -9,6 +9,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+       
         &:nth-of-type(1){
             background-color: rgb(190, 67, 67);
            
@@ -23,32 +24,35 @@
 
         }&:nth-of-type(5){
             background-color: rgb(229, 255, 0);            
-
+            a{
+                color: black;
+            }
         }
         //Changement de la taille des polices
         a{
             font-size:xx-large;
+            color:white;
         }
     }
 }
 //Animation des boutons
 #un{
-    animation: un 1s both;
+    animation: un 0.5s both;
 }
 #deux{
-    animation: deux 1s both;
-    animation-delay: 0.5s;
+    animation: deux 0.5s both;
+    animation-delay: 0.25s;
 }
 #trois{
-    animation: trois 1s both;
-    animation-delay: 1s;
+    animation: trois 0.5s both;
+    animation-delay: 0.5s;
 }
 #quatre{
-    animation: quatre 1s both;
-    animation-delay: 1.5s;
+    animation: quatre 0.5s both;
+    animation-delay: 0.75s;
 }#cinq{
-    animation: cinq 1s both;
-    animation-delay: 2s;
+    animation: cinq 0.5s both;
+    animation-delay: 1s;
 }
 @keyframes un{
 0%{

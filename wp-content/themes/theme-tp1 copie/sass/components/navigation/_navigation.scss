@@ -18,7 +18,7 @@
 			z-index: 99999;
 			width: auto;
 			height: auto;
-			background-color: white;
+			background-color: darkblue;
 			ul {
 				left: -999em;
 				top: 0;
@@ -228,6 +228,7 @@ $epaisseur : 8%;
 
 	.main-navigation a{
 		display: block;
+		color: white;
 	}
 
 	.main-navigation.toggled ul,
@@ -247,10 +248,18 @@ $epaisseur : 8%;
 	.sub-menu{
 		display: grid;
 	}
-	h1{
+	.site-branding{
 		
-		font-size: clamp(3vw, 0.5vw + 4vw, 5vw);
+		font-size: clamp(1vw, 0.5vw + 2vw, 3vw);
 		text-align: center;
+	}
+
+	nav{
+		background-color: darkblue;
+		a{
+			color: white;
+			
+		}
 	}
 
 }
