@@ -247,6 +247,11 @@ $epaisseur : 8%;
 	.sub-menu{
 		display: grid;
 	}
+	h1{
+		
+		font-size: clamp(3vw, 0.5vw + 4vw, 5vw);
+		text-align: center;
+	}
 
 }
 
