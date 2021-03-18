@@ -8503,3 +8503,15 @@ Stack trace:
 [18-Mar-2021 16:49:41 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
 [18-Mar-2021 16:49:41 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
 [18-Mar-2021 16:49:41 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:52:28 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:52:28 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:52:28 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:52:39 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:52:39 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:52:39 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:52:40 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:52:40 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:52:40 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:53:20 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:53:20 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:53:20 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49

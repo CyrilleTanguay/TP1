@@ -216,7 +216,11 @@ $epaisseur : 8%;
 	.fermeX2 {
 		animation : fermeX2 $duree both;
 	}
-
+	.site-main{
+		article{
+			text-align: center;
+		}
+	}
 @media screen and (min-width: 37.5em) {
 //Cacher le bouton burger
 	#burger{
