@@ -657,6 +657,10 @@ textarea {
   top: 0;
 }
 
+.main-navigation ul ul li {
+  border-bottom: 1px solid white;
+}
+
 .main-navigation ul ul li:hover > ul,
 .main-navigation ul ul li.focus > ul {
   display: block;
@@ -689,6 +693,10 @@ a {
 .menu-toggle,
 .main-navigation.toggled ul {
   display: block;
+}
+
+nav a {
+  color: white;
 }
 
 #burger {
@@ -845,9 +853,6 @@ a {
   }
   nav {
     background-color: darkblue;
-  }
-  nav a {
-    color: white;
   }
 }
 
