@@ -94,6 +94,15 @@ a{
 .menu-toggle,
 .main-navigation.toggled ul {
 	display: block;
+	animation: leMenu 1s;
+}
+@keyframes leMenu{
+	0%{
+		transform: translateX(-700px);
+	}
+	100%{
+		transform: translateX(0px);
+	}
 }
 
 //Couleur du texte du menu
