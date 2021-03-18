@@ -8358,3 +8358,148 @@ Stack trace:
 [18-Mar-2021 00:20:03 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
 [18-Mar-2021 00:20:03 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
 [18-Mar-2021 00:20:03 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 00:27:27 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 00:27:27 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 00:27:27 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:13:14 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:13:14 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:13:14 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:13:19 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:13:19 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:13:19 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:24:13 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:24:13 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:24:13 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:24:50 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:24:50 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:24:50 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:25:12 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:25:12 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:25:12 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:26:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:26:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:26:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:29:11 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:29:11 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:29:11 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:30:02 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:30:02 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:30:02 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:32:01 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:32:01 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:32:01 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:32:55 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:32:55 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:32:55 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:34:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:34:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:34:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:36:19 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:36:19 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:36:19 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:40:51 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:40:51 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:40:51 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:41:30 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:41:30 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:41:30 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:41:47 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:41:47 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:41:47 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:41:50 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:41:50 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:41:50 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:41:52 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:41:52 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:41:52 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:42:23 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:42:23 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:42:23 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:42:25 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:42:25 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:42:25 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:42:28 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:42:28 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:42:28 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:43:58 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:43:58 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:43:58 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:45:51 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:45:51 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:45:51 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:01 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:01 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:01 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1258
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1329
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 1935
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_settings follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Deprecated:  Required parameter $tab_sections follows optional parameter $tab_index in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2061
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 2913
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3204
+[18-Mar-2021 16:46:03 UTC] PHP Warning:  Private methods cannot be final as they are never overridden by other classes in /opt/lampp/htdocs/TP/wp-content/plugins/warp-imagick/classes/Base/Plugin/v1/class-abstract-settings.php on line 3218
+[18-Mar-2021 16:46:05 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:46:05 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:46:05 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:46:06 UTC] PHP Notice: A feed could not be found at `https://feeds.feedburner.com/wpfr`; the status code is `200` and content-type is `text/html; charset=UTF-8` in /opt/lampp/htdocs/TP/wp-includes/class-simplepie.php on line 1728
+[18-Mar-2021 16:47:10 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:47:10 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:47:10 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:49:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:49:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:49:17 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49
+[18-Mar-2021 16:49:41 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 46
+[18-Mar-2021 16:49:41 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 48
+[18-Mar-2021 16:49:41 UTC] PHP Warning:  Undefined variable $titre in /opt/lampp/htdocs/TP/wp-content/themes/theme-tp1 copie/front-page.php on line 49

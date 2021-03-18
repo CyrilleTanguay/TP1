@@ -259,7 +259,7 @@ $epaisseur : 8%;
 	//Modification du titre
 	.site-branding{
 		
-		font-size: clamp(1vw, 0.5vw + 2vw, 3vw);
+		font-size: $font__font-size-site;
 		text-align: center;
 	}
 //Arrière-plan du menu
@@ -268,6 +268,13 @@ $epaisseur : 8%;
 	
 	}
 
+	//Ajout d'un mixin
+	.site-main{
+		article{
+			@include article;
+		}
+		
+	}
 }
 
 .comment-navigation,
@@ -277,6 +284,7 @@ $epaisseur : 8%;
 	.site-main & {
 		margin: 0 0 1.5em;
 	}
+
 
 	.nav-links {
 		display: flex;

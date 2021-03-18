@@ -854,6 +854,10 @@ nav a {
   nav {
     background-color: darkblue;
   }
+  .site-main article {
+    margin-left: 2vw;
+    margin-right: 2vw;
+  }
 }
 
 .site-main .comment-navigation, .site-main
