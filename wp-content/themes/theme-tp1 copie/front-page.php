@@ -7,6 +7,8 @@
  * @package Theme_TP1
  */
 
+use ParagonIE\Sodium\Core\Curve25519\H;
+
 get_header();
 ?>
 
@@ -52,7 +54,8 @@ get_header();
 				$session=substr($titre,4,1);
 				//$contenu = get_the_content();
 				//$resume = substr($contenu,0,200);
-				$typeCours = get_field('type_de_cours');   
+				$typeCours = get_field('type_de_cours');
+				
 			?>
 
 <article>
