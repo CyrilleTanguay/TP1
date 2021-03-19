@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Health Check &amp; Troubleshooting - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-02-07 20:23:34+0000\n"
+"PO-Revision-Date: 2021-03-19 06:56:18+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,6 +27,10 @@ msgstr "Extension"
 #: includes/class-health-check-dashboard-widget.php:68
 msgid "<a href=\"%s\">Visit the Site Health page</a> to gather information on about your site.."
 msgstr "<a href=\"%s\">Voir la page Site Health</a> pour rassembler les informations sur votre site."
+
+#: includes/class-health-check-dashboard-widget.php:61
+msgid "No Site Health information has been gathered yet, you can do so by visiting the Site Health page, alternatively the checks will run automatically once every week."
+msgstr "Aucune information sur la santé du site n’a encore été recueillie, vous pouvez le faire en vous rendant sur la page Santé du site, ou bien les contrôles seront effectués automatiquement une fois par semaine."
 
 #: includes/class-health-check-dashboard-widget.php:52
 msgid "No information yet&hellip;"
@@ -102,9 +106,22 @@ msgstr "Mettez à jour votre fuseau horaire"
 msgid "Your site is not using localized timezones"
 msgstr "Votre site n’utilise pas des fuseaux horaires localisés"
 
+#: includes/class-health-check-site-status.php:1229
+msgid "Daylight Savings Time (DST) may affect the times used and shown by your site, and using an UTC offset, instead of a localized timezone, means that the site does not get automatic DST updates."
+msgstr "L’heure d’été peut affecter les heures utilisées et affichées par votre site, et en utilisant un décalage UTC, au lieu d’un fuseau horaire localisé, signifie que le site ne reçoit pas les mises à jour automatiques de l’heure d’été."
+
 #: includes/class-health-check-site-status.php:1221
 msgid "Your site uses localized timezones"
 msgstr "Votre site utilise des fuseaux horaires localisés"
+
+#. translators: 1: Count of issues. 2: URL for the Site Health page.
+#: includes/class-health-check-dashboard-widget.php:91
+msgid "Take a look at the <strong>%1$d items</strong> on the <a href=\"%2$s\">Site Health Check status page</a>."
+msgstr "Consultez la page <strong>%1$d éléments</strong> sur la page <a href=\"%2$s\">bilan de santé du site</a>."
+
+#: includes/class-health-check-dashboard-widget.php:81
+msgid "Your site scores pretty well on the Health Check, but there are still some things you can do to improve the performance and security of your website."
+msgstr "Votre site obtient d’assez bons résultats au bilan de santé, mais il y a encore des choses que vous pouvez faire pour améliorer les performances et la sécurité de votre site."
 
 #: includes/class-health-check-dashboard-widget.php:79
 msgid "Great job! Your site currently passes all site health checks."
@@ -123,6 +140,11 @@ msgstr "Cette page peut vous afficher tous les détails sur la configuration de 
 #: pages/site-health-header.php:29
 msgid "Results are still loading&hellip;"
 msgstr "Les résultats sont toujours en cours de chargement…"
+
+#. translators: %d: Amount of hidden themes.
+#: assets/mu-plugin/health-check-troubleshooting-mode.php:1171
+msgid "Show %d remaining themes"
+msgstr "Afficher %d thèmes restants"
 
 #. translators: %s: The module name.
 #: includes/class-health-check-site-status.php:889
@@ -885,15 +907,39 @@ msgstr "Problèmes critiques"
 msgid "%s Items with no issues detected"
 msgstr "%s élément sans problème détecté"
 
+#. translators: %s: Amount of passed tests.
+#. translators: %s: number of items with no issues
+#: includes/class-health-check.php:244 pages/site-status.php:71
+msgid "%s Item with no issues detected"
+msgid_plural "%s Items with no issues detected"
+msgstr[0] "%s élément sans problème détecté"
+msgstr[1] "%s éléments sans problème détectés"
+
 #. translators: %s: Amount of recommended issues.
 #: includes/class-health-check.php:242
 msgid "%s Recommended improvements"
 msgstr "%s amélioration recommandée"
 
+#. translators: %s: Amount of recommended issues.
+#. translators: %s: number of recommended improvements
+#: includes/class-health-check.php:240 pages/site-status.php:52
+msgid "%s Recommended improvement"
+msgid_plural "%s Recommended improvements"
+msgstr[0] "%s amélioration recommandée"
+msgstr[1] "%s améliorations recommandées"
+
 #. translators: %s: Amount of critical issues.
 #: includes/class-health-check.php:238
 msgid "%s Critical issues"
 msgstr "%s problèmes critiques"
+
+#. translators: %s: Amount of critical issues.
+#. translators: %s: number of critical issues found
+#: includes/class-health-check.php:236 pages/site-status.php:41
+msgid "%s Critical issue"
+msgid_plural "%s Critical issues"
+msgstr[0] "%s problème critique"
+msgstr[1] "%s problèmes critiques"
 
 #: includes/class-health-check.php:234
 msgid "Site information has been added to your clipboard."
