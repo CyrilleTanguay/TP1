@@ -888,6 +888,14 @@ nav a {
   }
 }
 
+.cours h2 {
+  text-align: center;
+}
+
+.cours section {
+  border-bottom: 1px solid black;
+}
+
 .site-main .comment-navigation, .site-main
 .posts-navigation, .site-main
 .post-navigation {
