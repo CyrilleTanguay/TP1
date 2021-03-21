@@ -70,7 +70,7 @@ get_header();
 						print "Contient des cours spécifiques";
 					}else if($typeCours == "Jeu"){
 						print "Contient des cours reliés à la programmation de jeux, de création…";
-					}else if($typeCours == "Imagerie_2d_3d"){
+					}else if($typeCours == "Imagerie 2D/3D"){
 						print "Contient des cours reliés à la création d'objets";
 					}; ?></h3>
 					<section>
