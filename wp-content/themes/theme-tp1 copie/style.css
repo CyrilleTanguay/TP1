@@ -896,6 +896,11 @@ nav a {
   border-bottom: 1px solid black;
 }
 
+.cours section p {
+  margin: 0;
+  line-height: 3em;
+}
+
 .site-main .comment-navigation, .site-main
 .posts-navigation, .site-main
 .post-navigation {

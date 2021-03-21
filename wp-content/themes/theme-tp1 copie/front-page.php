@@ -81,6 +81,7 @@ get_header();
 	<a href="<?php echo get_permalink() ?>"><?php echo $titrePartiel;?></a>
 	<p>Session : <?php echo $session; ?></p>	
 </article>
+<p></p>
 <?php 
 $precedent = $typeCours;
 endwhile; ?>    
