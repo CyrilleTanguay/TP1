@@ -55,13 +55,24 @@ get_header();
 				//$contenu = get_the_content();
 				//$resume = substr($contenu,0,200);
 				$typeCours = get_field('type_de_cours');
-				
+				//$desc = get_field_object('type_de_cours');
 				if($typeCours != $precedent):
 					if("XXXXXX" != $precedent):
 			?>
 					</section> 
 					<?php endif ?>
-					<h2><?php echo $typeCours; ?></h2>
+					<h2><?php echo $typeCours;
+					?></h2>
+					<h3 style="text-align: center;"><?php if($typeCours == "Web"){
+						print "Contient des cours reliés au développement web";
+					}
+					else if($typeCours == "Spécifique"){
+						print "Contient des cours spécifiques";
+					}else if($typeCours == "Jeu"){
+						print "Contient des cours reliés à la programmation de jeux, de création…";
+					}else if($typeCours == "Imagerie_2d_3d"){
+						print "Contient des cours reliés à la création d'objets";
+					}; ?></h3>
 					<section>
 			<?php endif;?>
 
