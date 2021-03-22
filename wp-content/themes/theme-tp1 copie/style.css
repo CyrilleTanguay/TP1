@@ -932,6 +932,16 @@ nav a {
   line-height: 3em;
 }
 
+footer {
+  background-color: lightblue;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+footer p {
+  margin: 0;
+}
+
 .site-main .comment-navigation, .site-main
 .posts-navigation, .site-main
 .post-navigation {
@@ -1241,6 +1251,7 @@ button {
   animation: trois 0.5s both;
   animation-delay: 0.5s;
   background-color: #435abe;
+  color: white;
 }
 
 #quatre {

@@ -332,6 +332,7 @@ font-family: 'Coda', cursive;
 		
 	}
 }
+//Sections
 .cours{
 	h2{
 		text-align: center;
@@ -346,7 +347,14 @@ font-family: 'Coda', cursive;
 	
 	}
 }
-
+footer{
+	background-color: lightblue;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	p{
+		margin:0
+	}
+}
 .comment-navigation,
 .posts-navigation,
 .post-navigation {
