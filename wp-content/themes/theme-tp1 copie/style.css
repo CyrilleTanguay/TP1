@@ -463,6 +463,12 @@ body {
   overflow-x: hidden;
 }
 
+@media screen and (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
+}
+
 hr {
   background-color: #ccc;
   border: 0;

@@ -3,3 +3,9 @@ body {
 	//Cacher le défilement horizontal
 	overflow-x: hidden;
 }
+//Empêcher le défilement en mode tablette
+@media screen and (max-width:768px){
+	body{
+	overflow-x: hidden;
+	}
+}
