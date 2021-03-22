@@ -3,6 +3,7 @@
 .main-navigation {
 	display: block;
 	width: 100%;
+	font-family: 'Ubuntu', sans-serif;
 
 	ul {
 		display: none;
@@ -251,6 +252,7 @@ $epaisseur : 8%;
 			h1{
 				margin-top: 0;
 				margin-left: 2vw;
+				color: steelblue;
 			}
 		}
 		article{
@@ -302,7 +304,9 @@ $epaisseur : 8%;
 		font-size: $font__font-size-site;
 		text-align: center;
 		a{
-color: darkblue;		}
+color: darkblue;		
+font-family: 'Coda', cursive;
+}
 :hover{
 	color: blue;
 }	

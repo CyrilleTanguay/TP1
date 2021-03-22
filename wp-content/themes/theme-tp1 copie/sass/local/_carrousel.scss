@@ -23,7 +23,7 @@
             background-color: rgb(255, 0, 157);            
 
         }&:nth-of-type(5){
-            background-color: rgb(229, 255, 0);            
+            background-color: rgb(251, 255, 0);            
             a{
                 color: black;
             }
@@ -32,28 +32,40 @@
         a{
             font-size:xx-large;
             color:white;
+            font-family: 'Ubuntu', sans-serif;
+
         }
     }
 }
 //Animation des boutons
+button{
+    border:none;
+}
 #un{
     animation: un 0.5s both;
+    background-color: rgb(190, 67, 67);
 }
 #deux{
     animation: deux 0.5s both;
     animation-delay: 0.25s;
+    background-color: rgb(77, 190, 67);
 }
 #trois{
     animation: trois 0.5s both;
     animation-delay: 0.5s;
+    background-color: rgb(67, 90, 190);            
 }
 #quatre{
     animation: quatre 0.5s both;
     animation-delay: 0.75s;
+    background-color: rgb(255, 0, 157);            
+
 }#cinq{
     animation: cinq 0.5s both;
     animation-delay: 1s;
+    background-color: rgb(251, 255, 0);            
 }
+
 @keyframes un{
 0%{
     transform: translateX(-2000px);
