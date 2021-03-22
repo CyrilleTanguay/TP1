@@ -61,7 +61,7 @@ get_header();
 			?>
 					</section> 
 					<?php endif ?>
-					<h2><?php echo $typeCours;
+					<h2 style="color:darkblue;"><?php echo $typeCours;
 					?></h2>
 					<h3 style="text-align: center;"><?php if($typeCours == "Web"){
 						print "Contient des cours reliés au développement web";
@@ -77,7 +77,7 @@ get_header();
 			<?php endif;?>
 
 <article>
-	<p> <?php echo $sigle . " - " . $typeCours . " - " . $nb_Heure ; ?></p>
+	<p> <?php echo $sigle . " - "?><b><?php echo $typeCours;?></b><?php echo " - " . $nb_Heure ; ?></p>
 	<a href="<?php echo get_permalink() ?>"><?php echo $titrePartiel;?></a>
 	<p>Session : <?php echo $session; ?></p>	
 </article>

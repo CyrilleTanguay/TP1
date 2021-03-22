@@ -120,6 +120,7 @@ burger.addEventListener('mousedown', function(){
 		bar2.classList.remove('ouvreX2')
 		bar3.classList.add('fermeX3')
 		bar3.classList.remove('ouvreX3')
+
 	}
 
 })

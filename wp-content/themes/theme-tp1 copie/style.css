@@ -700,7 +700,7 @@ a {
 .menu-toggle,
 .main-navigation.toggled ul {
   display: block;
-  animation: leMenu 1s;
+  animation: leMenu both 1s;
 }
 
 @keyframes leMenu {
@@ -709,6 +709,17 @@ a {
   }
   100% {
     transform: translateX(0px);
+  }
+}
+
+@keyframes leMenu2 {
+  0% {
+    transform: translateX(0px);
+    display: block;
+  }
+  100% {
+    transform: translateX(-700px);
+    display: none;
   }
 }
 
@@ -832,6 +843,15 @@ nav a {
   animation: fermeX2 0.1s both;
 }
 
+.site-main {
+  background-color: lightblue;
+}
+
+.site-main header h1 {
+  margin-top: 0;
+  margin-left: 2vw;
+}
+
 .site-main article {
   text-align: center;
 }
@@ -871,6 +891,12 @@ nav a {
   .site-branding {
     font-size: clamp(1vw, 2.5vw, 3vw);
     text-align: center;
+  }
+  .site-branding a {
+    color: darkblue;
+  }
+  .site-branding :hover {
+    color: blue;
   }
   nav {
     background-color: darkblue;
